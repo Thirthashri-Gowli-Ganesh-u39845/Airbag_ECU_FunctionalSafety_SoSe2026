@@ -17,7 +17,7 @@ A structured, engineering-focused project dedicated to analyzing and ensuring th
 | Safety Engineer                        | u39836   | Atharva Banarase                  |
 | Safety Analyst HARA                    | u40330   | Sara Nematollahi                  |
 | Safety Analyst HARA                    | u40283   | Sathyashree Vignasante Ramegowda  |
-| System Unit Testing                    | u39943   | Atharva Prasad Avsare             |
+| System Engineer                        | u39943   | Atharva Prasad Avsare             |
 | System Architect                       | u39850   | Om Naik                           |
 | Testing Engineer V and V               | u39844   | Shivbaraje Bhosale                |
 
