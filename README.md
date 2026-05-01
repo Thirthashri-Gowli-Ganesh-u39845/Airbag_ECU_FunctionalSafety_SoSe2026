@@ -7,19 +7,19 @@ A structured, engineering-focused project dedicated to analyzing and ensuring th
 | Role                                   | u-number | Name                              |
 |----------------------------------------|----------|-----------------------------------|
 | Project Manager                        | u39939   | Alita Shrestha                    |
-| Functional Safety Manager (FSM)        | u40262   | Fateme Hosseinzadeh               |
-| Functional Safety Engineer             | u39842   | Kruthika Sathyanarayana Gowda     |
-| Functional Safety Assessor (TÜV)       | u39957   | Mariana Chavez Avila              |
+| Functional Safety Manager              | u39842   | Kruthika Sathyanarayana Gowda     |
+| Safety Requirement Engineer            | u40262   | Fateme Hosseinzadeh               |
+| Software Architect                     | u39957   | Mariana Chavez Avila              |
 | Quality Manager                        | u39845   | Thirthashri Gowli Ganesh          |
-| Configuration Manager (Version Control)| u39951   | Paresh Sanjiv Patil               |
-| Safety Analyst (HARA / ASIL)           | u40330   | Sara Nematollahi                  |
-| Systems Engineer (Architecture)        | u39943   | Atharva Prasad Avsare             |
-| Requirements Engineer                  | u40261   | Mobina Ketabi                     |
+| Safety Manual Engineer                 | u39951   | Paresh Sanjiv Patil               |
+| Safety Analyst HARA                    | u40330   | Sara Nematollahi                  |
+| System Unit Testing                    | u39943   | Atharva Prasad Avsare             |
+| Safety Requirement Engineer            | u40261   | Mobina Ketabi                     |
 | Software Engineer                      | u39950   | Mrunal Sahebrao Ghotekar          |
-| Hardware Engineer                      | u39850   | Om Naik                           |
-| Control Engineer                       | u39836   | Atharva Banarase                  |
-| Test Engineer (Verification)           | u39844   | Shivbaraje Bhosale                |
-| Test Engineer (Verification)           | u40283   | Sathyashree Vignasante Ramegowda  |
+| System Architect                       | u39850   | Om Naik                           |
+| Safety Manual Engineer                 | u39836   | Atharva Banarase                  |
+| Testing Engineer V and V               | u39844   | Shivbaraje Bhosale                |
+| Safety Analyst HARA                    | u40283   | Sathyashree Vignasante Ramegowda  |
 
 
 
