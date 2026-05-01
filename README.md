@@ -19,7 +19,7 @@ A structured, engineering-focused project dedicated to analyzing and ensuring th
 | Hardware Engineer                      | u39850   | Om Naik                           |
 | Control Engineer                       | u39836   | Atharva Banarase                  |
 | Test Engineer (Verification)           | u39844   | Shivbaraje Bhosale                |
-
+| Test Engineer (Verification)           | u40283   | Sathyashree Vignasante Ramegowda  |
 
 
 
