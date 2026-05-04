@@ -28,7 +28,7 @@ Project progress is tracked using ClickUp
 
 Click the link below to open the ClickUp space:
 
-## [👉 Click here to open the link](https://app.clickup.com/90121643284/v/l/s/90127340206)
+## [👉 ClickUp Link](https://app.clickup.com/90121643284/v/l/s/90127340206)
 
 
 
