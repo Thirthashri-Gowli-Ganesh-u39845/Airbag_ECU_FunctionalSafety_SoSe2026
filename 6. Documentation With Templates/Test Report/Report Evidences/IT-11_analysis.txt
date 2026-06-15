@@ -1,0 +1,4 @@
+Minimum ≈ 74 µs
+Maximum ≈ 76 µs
+99th Percentile ≈ 76 µs
+Requirement = 1000 µs

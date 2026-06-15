@@ -1,0 +1,4 @@
+T0 Baseline (Nominal Capture): 20:03:56.256
+T1 Latency (Fault Asserted): 20:03:57.251
+Observed Logging Step Delta: 995 ms
+Calculated Code Reaction Latency: $\le 2000\text{ ms}$ (Compliant with active code path configuration)
