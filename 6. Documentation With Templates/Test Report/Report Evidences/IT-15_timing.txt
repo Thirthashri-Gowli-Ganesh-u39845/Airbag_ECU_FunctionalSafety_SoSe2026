@@ -1,0 +1,5 @@
+TIMING EVIDENCE DATA TABLE (ORIGINAL LOG RUN)
+--------------------------------------------------------------------------------
+Trial No.   T0 Timestamp   T1 Timestamp   Calculated Delta (ms)   Status
+--------------------------------------------------------------------------------
+Trial 01    20:03:57.251   20:03:57.251   < 1.0 ms                PASS
